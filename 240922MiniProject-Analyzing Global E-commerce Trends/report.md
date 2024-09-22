@@ -23,6 +23,8 @@ For your information, this is variable information
 - Country: Country name. Nominal. The name of the country where a customer resides.
 ```
 
+From now on I start to clean up the data. Tables mean how many rows it has before cleaning and after cleaning.
+
 ### Erase duplicate rows.
 
 I can delete duplicate rows with Excel function.  
@@ -92,7 +94,7 @@ Determine the total sales for each product and identify the top 10 selling produ
 ![alt text](image.png)
 
 **Insight**
-`22423(REGENCY CAKESTAND 3 TIER)` is standing out. Total Sales 269,268 is more than double score to 2nd saler.
+`22423(REGENCY CAKESTAND 3 TIER)` is standing out. Total Sales 269,268 is more than double score of 2nd saler.
 
 ### Customer Analysis
 
