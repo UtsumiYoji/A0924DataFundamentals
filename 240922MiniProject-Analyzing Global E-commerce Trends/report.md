@@ -28,7 +28,7 @@ From now on I start to clean up the data. Tables mean how many rows it has befor
 ### Erase duplicate rows.
 
 I can delete duplicate rows with Excel function.  
-Tool bar > Data > Data tools > Remoce Duplicates
+Tool bar > Data > Data tools > Remove Duplicates
 
 || Year 2009-2010 | Year 2010-2011 |
 | - | - | - |
