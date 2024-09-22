@@ -1,8 +1,8 @@
 # Mini-Project 1: Analyzing Global E-commerce Trends
 
-Course: Data Fundamentals, Data-Science, Cornerstone
-Instructor: Derrick Park
-Publisher: Yoji Utsumi (TA)
+Course: Data Fundamentals, Data-Science, Cornerstone  
+Instructor: Derrick Park  
+Publisher: Yoji Utsumi (TA)  
 Last update: Sep 22, 2024
 
 ## 1. Clean the data
