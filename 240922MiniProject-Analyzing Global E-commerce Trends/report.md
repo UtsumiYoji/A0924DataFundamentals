@@ -68,7 +68,7 @@ To display Sales, add a `Sales` column which is having formula `[Price] * [Quant
 
 ### Integrate sheets
 
-Now I'm having 2 sheets. It is hard to analyze data so I integrate 2 sheets into 1 sheet. After integrating I have 718,972 colums.
+Now I'm having 2 sheets. It is hard to analyze data so I integrate 2 sheets into 1 sheet. After integrating I have 718,972 rows.
 
 ## 2. Analyze the Data
 
@@ -161,7 +161,7 @@ Examine how sales figures vary month-to-month to identify any seasonal trends th
 **Method**  
 - Make Pivot table
   - Add `Months(InvoiceDate)` in Rows
-  - Add `Sum of Quantity` and `Sum of Sales` in Values
+  - Add `Sum of Sales` and `Sum of Invoice` in Values
   - (Optional) adjust decimal point
 - Make PivotChart
   - Go to PivotTable Analyze > Pivot Chart > Combo > Clustered Column - Line on Secondary Axis
