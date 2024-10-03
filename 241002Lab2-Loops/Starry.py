@@ -1,13 +1,11 @@
 def main():
-    # while True:
-    #     lines = input('How many lines do you want to print? :')
-    #     if lines.isdigit():
-    #         lines = int(lines)
-    #         if 0 < lines:
-    #             break
-    #     print('Invalid input. Please type again.')
-    lines = 7
-
+    while True:
+        lines = input('How many lines do you want to print? :')
+        if lines.isdigit():
+            lines = int(lines)
+            if 0 < lines:
+                break
+        print('Invalid input. Please type again.')
 
     # part1
     for i in range(lines):
